@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Keerthika</h1>
 <h3 align="center">Computer Science Student</h3>
-<img align = "right" alt = "coding" width "200" src ="https://miro.medium.com/v2/1*uYkZXXw-QL-N_1gVndPH9A.gif">
+<img align = "right" alt = "coding" width "100" src ="https://miro.medium.com/v2/1*uYkZXXw-QL-N_1gVndPH9A.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthika&label=Profile%20views&color=0e75b6&style=flat" alt="keerthika" /> </p>
 
