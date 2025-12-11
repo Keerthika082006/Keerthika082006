@@ -20,7 +20,7 @@ Computer Science student at Rathinam College of Arts and Science Coimbatore
  <img width="55" height="55" src="https://img.icons8.com/color/48/tomcat.png" alt="tomcat"/></br>
  <img height="55" src="https://img.icons8.com/color/480/null/notion--v1.png" /> 
 
-![LeetCode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/keerthiduraiselvan?theme=dark&font=Assistant&ext=heatmap))
+![LeetCode Stats](https://leetcard.jacoblin.cool/keerthiduraiselvan?theme=dark&font=Assistant&ext=heatmap)
 
 
 <h2>📫 How to reach me:</h2>
