@@ -1,15 +1,15 @@
 
 ## Hi there 👋 It's me KEERTHIKA
-Computer Science student at Rathinam College of Arts and Science
-<img align="right" width="370" height="290" <div align="center">
+Computer Science student at Rathinam College of Arts and Science Coimbatore
+ <div align="right">
   <img alt="Coding" height="300" width="450" 
     src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="image">
 </div>
 
-- 🌱 I’m currently learning  DSA
-- Exploring the world of algorithms and data structures
+- Passionately learning DSA and improving my logical & analytical thinking.
+- “I don’t chase perfection; I chase improvement.”
 - Social Presence
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/akilan-k-903b01319) <br/> 
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/keerthika0812) <br/> 
 
 ### I code in
 <img height="60" width="60" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/css3.png" /> 
@@ -28,7 +28,7 @@ Computer Science student at Rathinam College of Arts and Science
 
 <h2>📫 How to reach me:</h2>
 <div align="center">
-    <a href="mailto:akilankaran0512@gmail.com">
+    <a href="mailto:dkeerthika1808@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
 
