@@ -16,7 +16,7 @@ Computer Science student at Rathinam College of Arts and Science Coimbatore
  
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" /> <img height="60" src="https://img.icons8.com/officel/480/null/java-eclipse.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" /> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png" />
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" /> <img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea" />
  <img width="50" height="50" src="https://img.icons8.com/color/48/tomcat.png" alt="tomcat"/></br>
  <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> 
